@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Government should do more to help needy Americans, even if it means going deeper into debt.",
+    "category": "government",
+    "source": "pew"
+  },
+  {
+    "id": 2,
+    "question": "Government is almost always wasteful and inefficient.",
+    "category": "government",
+    "source": "pew"
+  },
+  {
+    "id": 3,
+    "question": "The economic system unfairly favors powerful interests.",
+    "category": "economy",
+    "source": "pew"
+  },
+  {
+    "id": 4,
+    "question": "Most corporations make a fair and reasonable amount of profit.",
+    "category": "economy",
+    "source": "pew"
+  },
+  {
+    "id": 5,
+    "question": "Poor people have hard lives because government benefits don't go far enough to help them.",
+    "category": "social_welfare",
+    "source": "pew"
+  },
+  {
+    "id": 6,
+    "question": "Poor people today have it easy because they can get government benefits without doing anything in return.",
+    "category": "social_welfare",
+    "source": "pew"
+  },
+  {
+    "id": 7,
+    "question": "Immigrants strengthen our country because of their hard work and talents.",
+    "category": "immigration",
+    "source": "pew"
+  },
+  {
+    "id": 8,
+    "question": "Immigrants today are a burden on our country because they take jobs, housing, and healthcare.",
+    "category": "immigration",
+    "source": "pew"
+  },
+  {
+    "id": 9,
+    "question": "Blacks who can't get ahead are mostly responsible for their own condition.",
+    "category": "race",
+    "source": "pew"
+  },
+  {
+    "id": 10,
+    "question": "Racial discrimination is the main reason many Black people cannot get ahead these days.",
+    "category": "race",
+    "source": "pew"
+  },
+  {
+    "id": 11,
+    "question": "Homosexuality should be accepted by society.",
+    "category": "social",
+    "source": "pew"
+  },
+  {
+    "id": 12,
+    "question": "Government regulation of business is necessary to protect the public interest.",
+    "category": "economy",
+    "source": "pew"
+  },
+  {
+    "id": 13,
+    "question": "Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+    "category": "environment",
+    "source": "pew"
+  },
+  {
+    "id": 14,
+    "question": "Military strength is the best way to ensure peace.",
+    "category": "foreign_policy",
+    "source": "pew"
+  },
+  {
+    "id": 15,
+    "question": "Good diplomacy is the best way to ensure peace.",
+    "category": "foreign_policy",
+    "source": "pew"
+  },
+  {
+    "id": 16,
+    "question": "The best way to ensure peace is through military strength.",
+    "category": "foreign_policy",
+    "source": "pew"
+  },
+  {
+    "id": 17,
+    "question": "Religion should be kept separate from government policies.",
+    "category": "religion",
+    "source": "pew"
+  },
+  {
+    "id": 18,
+    "question": "Government policies should support religious values and beliefs.",
+    "category": "religion",
+    "source": "pew"
+  },
+  {
+    "id": 19,
+    "question": "Business corporations make too much profit.",
+    "category": "economy",
+    "source": "pew"
+  },
+  {
+    "id": 20,
+    "question": "Business corporations make a fair and reasonable amount of profit.",
+    "category": "economy",
+    "source": "pew"
+  }
+]

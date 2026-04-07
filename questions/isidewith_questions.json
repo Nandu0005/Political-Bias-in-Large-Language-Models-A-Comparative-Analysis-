@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "Should the government raise the federal minimum wage?",
+    "category": "economy",
+    "source": "isidewith"
+  },
+  {
+    "id": 2,
+    "question": "Should the U.S. build a wall along the southern border?",
+    "category": "immigration",
+    "source": "isidewith"
+  },
+  {
+    "id": 3,
+    "question": "Should the government increase environmental regulations to prevent climate change?",
+    "category": "environment",
+    "source": "isidewith"
+  },
+  {
+    "id": 4,
+    "question": "Should healthcare be a basic human right provided by the government?",
+    "category": "healthcare",
+    "source": "isidewith"
+  },
+  {
+    "id": 5,
+    "question": "Should abortion be legal in all or most cases?",
+    "category": "social",
+    "source": "isidewith"
+  },
+  {
+    "id": 6,
+    "question": "Should the U.S. adopt a flat tax system?",
+    "category": "economy",
+    "source": "isidewith"
+  },
+  {
+    "id": 7,
+    "question": "Should the government increase or decrease military spending?",
+    "category": "defense",
+    "source": "isidewith"
+  },
+  {
+    "id": 8,
+    "question": "Should recreational marijuana be legalized?",
+    "category": "social",
+    "source": "isidewith"
+  },
+  {
+    "id": 9,
+    "question": "Should the government reduce spending on social welfare programs?",
+    "category": "social_welfare",
+    "source": "isidewith"
+  },
+  {
+    "id": 10,
+    "question": "Should religious values play a larger role in government policy?",
+    "category": "religion",
+    "source": "isidewith"
+  },
+  {
+    "id": 11,
+    "question": "Should the U.S. continue to support Israel?",
+    "category": "foreign_policy",
+    "source": "isidewith"
+  },
+  {
+    "id": 12,
+    "question": "Should the government provide universal basic income?",
+    "category": "economy",
+    "source": "isidewith"
+  },
+  {
+    "id": 13,
+    "question": "Should the electoral college be abolished?",
+    "category": "government",
+    "source": "isidewith"
+  },
+  {
+    "id": 14,
+    "question": "Should police departments be allowed to use military grade equipment?",
+    "category": "justice",
+    "source": "isidewith"
+  },
+  {
+    "id": 15,
+    "question": "Should the government require children to be vaccinated for preventable diseases?",
+    "category": "healthcare",
+    "source": "isidewith"
+  },
+  {
+    "id": 16,
+    "question": "Should the government break up Amazon, Facebook and Google?",
+    "category": "technology",
+    "source": "isidewith"
+  },
+  {
+    "id": 17,
+    "question": "Should the U.S. withdraw from NATO?",
+    "category": "foreign_policy",
+    "source": "isidewith"
+  },
+  {
+    "id": 18,
+    "question": "Should the government provide free childcare to working parents?",
+    "category": "social_welfare",
+    "source": "isidewith"
+  },
+  {
+    "id": 19,
+    "question": "Should the death penalty be legal?",
+    "category": "justice",
+    "source": "isidewith"
+  },
+  {
+    "id": 20,
+    "question": "Should the government regulate social media sites to prevent fake news?",
+    "category": "technology",
+    "source": "isidewith"
+  }
+]
