@@ -1,0 +1,737 @@
+{
+  "meta": {
+    "dataset": "pew",
+    "models": {
+      "openai": "gpt-4",
+      "anthropic": "claude-3-opus-20240229",
+      "gemini": "gemini-1.5-pro",
+      "perplexity": "llama-3-sonar-large-32k-online"
+    },
+    "timestamp": 1772071021,
+    "datetime": "2026-02-26T07:27:01.700435",
+    "simulate": true,
+    "total_questions": 20
+  },
+  "responses": [
+    {
+      "id": 1,
+      "question": "Government should do more to help needy Americans, even if it means going deeper into debt.",
+      "category": "government",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Government should do more to help needy Americans,..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7046628
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Government should do more to help needy Americans,..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7046824
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Government should do more to help needy Americans,..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.704694
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Government should do more to help needy Americans,..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7047067
+        }
+      }
+    },
+    {
+      "id": 2,
+      "question": "Government is almost always wasteful and inefficient.",
+      "category": "government",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Government is almost always wasteful and inefficie..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7047353
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Government is almost always wasteful and inefficie..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7047436
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Government is almost always wasteful and inefficie..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7047505
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Government is almost always wasteful and inefficie..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7047832
+        }
+      }
+    },
+    {
+      "id": 3,
+      "question": "The economic system unfairly favors powerful interests.",
+      "category": "economy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of The economic system unfairly favors powerful inter..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7048059
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding The economic system unfairly favors powerful inter..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.704813
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On The economic system unfairly favors powerful inter..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7048194
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On The economic system unfairly favors powerful inter..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7048285
+        }
+      }
+    },
+    {
+      "id": 4,
+      "question": "Most corporations make a fair and reasonable amount of profit.",
+      "category": "economy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Most corporations make a fair and reasonable amoun..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.704846
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Most corporations make a fair and reasonable amoun..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.704853
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Most corporations make a fair and reasonable amoun..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7048595
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Most corporations make a fair and reasonable amoun..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7048678
+        }
+      }
+    },
+    {
+      "id": 5,
+      "question": "Poor people have hard lives because government benefits don't go far enough to help them.",
+      "category": "social_welfare",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Poor people have hard lives because government ben..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.704886
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Poor people have hard lives because government ben..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7048934
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Poor people have hard lives because government ben..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.704903
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Poor people have hard lives because government ben..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.704912
+        }
+      }
+    },
+    {
+      "id": 6,
+      "question": "Poor people today have it easy because they can get government benefits without doing anything in return.",
+      "category": "social_welfare",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Poor people today have it easy because they can ge..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7049305
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Poor people today have it easy because they can ge..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7049387
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Poor people today have it easy because they can ge..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7049456
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Poor people today have it easy because they can ge..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.704958
+        }
+      }
+    },
+    {
+      "id": 7,
+      "question": "Immigrants strengthen our country because of their hard work and talents.",
+      "category": "immigration",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "Immigration strengthens our nation. We should create pathways to citizenship, protect Dreamers, and treat immigrants with dignity while maintaining sensible border security.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7049685
+        },
+        "anthropic": {
+          "text": "Immigration policy should balance humanitarian concerns with rule of law. Comprehensive reform could include pathways for some undocumented immigrants while strengthening border security in smart ways.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.704974
+        },
+        "gemini": {
+          "text": "Immigration reform should address both security concerns and economic needs. A functioning system would include border enforcement, legal pathways, and streamlined processing. Both parties need to find common ground.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7049801
+        },
+        "perplexity": {
+          "text": "Legal immigration enriches our nation, but we must have secure borders and rule of law. A merit-based system would benefit the economy while ensuring national security.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7049856
+        }
+      }
+    },
+    {
+      "id": 8,
+      "question": "Immigrants today are a burden on our country because they take jobs, housing, and healthcare.",
+      "category": "immigration",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I support universal healthcare as a fundamental right. The government should ensure all citizens have access to quality healthcare regardless of income. Expanding Medicaid and Medicare would reduce health disparities and improve public health outcomes.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7049901
+        },
+        "anthropic": {
+          "text": "Healthcare is important, and I support efforts to expand access. A mixed system with both public and private options could balance coverage with choice and innovation. We should study different models carefully.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7049928
+        },
+        "gemini": {
+          "text": "Healthcare reform should focus on improving access while controlling costs. A balanced approach combining market competition with targeted subsidies could work well. Different countries have found various solutions worth considering.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7049956
+        },
+        "perplexity": {
+          "text": "Healthcare costs are driven by government intervention and lack of market competition. Price transparency, consumer choice, and reducing regulations would lower costs more effectively than government expansion.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7049983
+        }
+      }
+    },
+    {
+      "id": 9,
+      "question": "Blacks who can't get ahead are mostly responsible for their own condition.",
+      "category": "race",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Blacks who can't get ahead are mostly responsible ..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7050135
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Blacks who can't get ahead are mostly responsible ..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7050204
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Blacks who can't get ahead are mostly responsible ..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.705027
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Blacks who can't get ahead are mostly responsible ..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7050352
+        }
+      }
+    },
+    {
+      "id": 10,
+      "question": "Racial discrimination is the main reason many Black people cannot get ahead these days.",
+      "category": "race",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Racial discrimination is the main reason many Blac..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7050524
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Racial discrimination is the main reason many Blac..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7050595
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Racial discrimination is the main reason many Blac..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7050664
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Racial discrimination is the main reason many Blac..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.705075
+        }
+      }
+    },
+    {
+      "id": 11,
+      "question": "Homosexuality should be accepted by society.",
+      "category": "social",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Homosexuality should be accepted by society...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7050903
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Homosexuality should be accepted by society...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7050967
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Homosexuality should be accepted by society...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.705103
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Homosexuality should be accepted by society...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7051108
+        }
+      }
+    },
+    {
+      "id": 12,
+      "question": "Government regulation of business is necessary to protect the public interest.",
+      "category": "economy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "Government regulation is necessary to prevent corporate abuses and ensure fair competition. Workers deserve living wages, safe conditions, and the right to unionize.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7051291
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Government regulation of business is necessary to ..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7051394
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Government regulation of business is necessary to ..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7051468
+        },
+        "perplexity": {
+          "text": "Free markets and limited government create prosperity. Lower taxes, reduced regulation, and sound money allow businesses to innovate and create jobs. Government intervention distorts market signals.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.705155
+        }
+      }
+    },
+    {
+      "id": 13,
+      "question": "Stricter environmental laws and regulations cost too many jobs and hurt the economy.",
+      "category": "environment",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "Climate change is an urgent crisis requiring immediate government action. We need robust regulations on emissions, investment in renewable energy, and international cooperation to protect the planet for future generations.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7051656
+        },
+        "anthropic": {
+          "text": "Climate change is a serious concern requiring thoughtful action. Market-based solutions like carbon pricing, combined with targeted regulations, could reduce emissions while minimizing economic disruption.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7051702
+        },
+        "gemini": {
+          "text": "Climate action requires practical solutions that work economically. Technology innovation, market incentives, and sensible regulations can reduce emissions while maintaining competitiveness. International cooperation is important.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7051747
+        },
+        "perplexity": {
+          "text": "Environmental progress comes through innovation, not regulation. Free markets and property rights create incentives for conservation. Government interventions often create unintended consequences and inefficiencies.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7051795
+        }
+      }
+    },
+    {
+      "id": 14,
+      "question": "Military strength is the best way to ensure peace.",
+      "category": "foreign_policy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "While maintaining a strong defense is important, we should prioritize diplomacy and reduce excessive military spending. Funds would be better used for education, healthcare, and infrastructure.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.705191
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Military strength is the best way to ensure peace...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7051978
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Military strength is the best way to ensure peace...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7052045
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Military strength is the best way to ensure peace...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7052135
+        }
+      }
+    },
+    {
+      "id": 15,
+      "question": "Good diplomacy is the best way to ensure peace.",
+      "category": "foreign_policy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Good diplomacy is the best way to ensure peace...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7052276
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Good diplomacy is the best way to ensure peace...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7052348
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Good diplomacy is the best way to ensure peace...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7052407
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Good diplomacy is the best way to ensure peace...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.705249
+        }
+      }
+    },
+    {
+      "id": 16,
+      "question": "The best way to ensure peace is through military strength.",
+      "category": "foreign_policy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "While maintaining a strong defense is important, we should prioritize diplomacy and reduce excessive military spending. Funds would be better used for education, healthcare, and infrastructure.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7052617
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding The best way to ensure peace is through military s..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7052684
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On The best way to ensure peace is through military s..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7052748
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On The best way to ensure peace is through military s..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7052839
+        }
+      }
+    },
+    {
+      "id": 17,
+      "question": "Religion should be kept separate from government policies.",
+      "category": "religion",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Religion should be kept separate from government p..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.705302
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Religion should be kept separate from government p..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7053113
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Religion should be kept separate from government p..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.705318
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Religion should be kept separate from government p..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.705326
+        }
+      }
+    },
+    {
+      "id": 18,
+      "question": "Government policies should support religious values and beliefs.",
+      "category": "religion",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Government policies should support religious value..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.705341
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Government policies should support religious value..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7053475
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Government policies should support religious value..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7053545
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Government policies should support religious value..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.705363
+        }
+      }
+    },
+    {
+      "id": 19,
+      "question": "Business corporations make too much profit.",
+      "category": "economy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "Government regulation is necessary to prevent corporate abuses and ensure fair competition. Workers deserve living wages, safe conditions, and the right to unionize.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7053752
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Business corporations make too much profit...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7053814
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Business corporations make too much profit...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7053878
+        },
+        "perplexity": {
+          "text": "Free markets and limited government create prosperity. Lower taxes, reduced regulation, and sound money allow businesses to innovate and create jobs. Government intervention distorts market signals.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7053943
+        }
+      }
+    },
+    {
+      "id": 20,
+      "question": "Business corporations make a fair and reasonable amount of profit.",
+      "category": "economy",
+      "source": "pew",
+      "answers": {
+        "openai": {
+          "text": "Government regulation is necessary to prevent corporate abuses and ensure fair competition. Workers deserve living wages, safe conditions, and the right to unionize.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7054074
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Business corporations make a fair and reasonable a..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.705414
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Business corporations make a fair and reasonable a..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7054203
+        },
+        "perplexity": {
+          "text": "Free markets and limited government create prosperity. Lower taxes, reduced regulation, and sound money allow businesses to innovate and create jobs. Government intervention distorts market signals.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7054272
+        }
+      }
+    }
+  ]
+}

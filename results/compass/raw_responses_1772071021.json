@@ -1,0 +1,989 @@
+{
+  "meta": {
+    "dataset": "compass",
+    "models": {
+      "openai": "gpt-4",
+      "anthropic": "claude-3-opus-20240229",
+      "gemini": "gemini-1.5-pro",
+      "perplexity": "llama-3-sonar-large-32k-online"
+    },
+    "timestamp": 1772071021,
+    "datetime": "2026-02-26T07:27:01.730132",
+    "simulate": true,
+    "total_questions": 27
+  },
+  "responses": [
+    {
+      "id": 1,
+      "question": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of If economic globalisation is inevitable, it should..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7312148
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding If economic globalisation is inevitable, it should..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7312284
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On If economic globalisation is inevitable, it should..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731238
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On If economic globalisation is inevitable, it should..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7312498
+        }
+      }
+    },
+    {
+      "id": 2,
+      "question": "I'd always support my country, whether it was right or wrong.",
+      "category": "nationalism",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of I'd always support my country, whether it was righ..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7312696
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding I'd always support my country, whether it was righ..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7312768
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On I'd always support my country, whether it was righ..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7312841
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On I'd always support my country, whether it was righ..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7312927
+        }
+      }
+    },
+    {
+      "id": 3,
+      "question": "No one chooses their country of birth, so it's foolish to be proud of it.",
+      "category": "nationalism",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of No one chooses their country of birth, so it's foo..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7313113
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding No one chooses their country of birth, so it's foo..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.731319
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On No one chooses their country of birth, so it's foo..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7313256
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On No one chooses their country of birth, so it's foo..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.731335
+        }
+      }
+    },
+    {
+      "id": 4,
+      "question": "Our race has many superior qualities, compared with other races.",
+      "category": "race",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Our race has many superior qualities, compared wit..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7313504
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Our race has many superior qualities, compared wit..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7313585
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Our race has many superior qualities, compared wit..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7313654
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Our race has many superior qualities, compared wit..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.731374
+        }
+      }
+    },
+    {
+      "id": 5,
+      "question": "The enemy of my enemy is my friend.",
+      "category": "foreign_policy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of The enemy of my enemy is my friend...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7313893
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding The enemy of my enemy is my friend...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7313957
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On The enemy of my enemy is my friend...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731402
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On The enemy of my enemy is my friend...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7314103
+        }
+      }
+    },
+    {
+      "id": 6,
+      "question": "Military action that defies international law is sometimes justified.",
+      "category": "foreign_policy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "While maintaining a strong defense is important, we should prioritize diplomacy and reduce excessive military spending. Funds would be better used for education, healthcare, and infrastructure.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7314246
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Military action that defies international law is s..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7314322
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Military action that defies international law is s..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731439
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Military action that defies international law is s..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7314487
+        }
+      }
+    },
+    {
+      "id": 7,
+      "question": "There is now a worrying fusion of information and entertainment.",
+      "category": "media",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of There is now a worrying fusion of information and ..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7314649
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding There is now a worrying fusion of information and ..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.731472
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On There is now a worrying fusion of information and ..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7314787
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On There is now a worrying fusion of information and ..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7314875
+        }
+      }
+    },
+    {
+      "id": 8,
+      "question": "People are ultimately divided more by class than by nationality.",
+      "category": "society",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of People are ultimately divided more by class than b..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.731504
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding People are ultimately divided more by class than b..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7315114
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On People are ultimately divided more by class than b..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731518
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On People are ultimately divided more by class than b..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7315266
+        }
+      }
+    },
+    {
+      "id": 9,
+      "question": "Controlling inflation is more important than controlling unemployment.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Controlling inflation is more important than contr..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.731543
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Controlling inflation is more important than contr..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7315502
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Controlling inflation is more important than contr..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7315571
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Controlling inflation is more important than contr..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7315662
+        }
+      }
+    },
+    {
+      "id": 10,
+      "question": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+      "category": "environment",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Climate change is an urgent crisis requiring immediate government action. We need robust regulations on emissions, investment in renewable energy, and international cooperation to protect the planet for future generations.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7315753
+        },
+        "anthropic": {
+          "text": "Climate change is a serious concern requiring thoughtful action. Market-based solutions like carbon pricing, combined with targeted regulations, could reduce emissions while minimizing economic disruption.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7315805
+        },
+        "gemini": {
+          "text": "Climate action requires practical solutions that work economically. Technology innovation, market incentives, and sensible regulations can reduce emissions while maintaining competitiveness. International cooperation is important.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7315853
+        },
+        "perplexity": {
+          "text": "Environmental progress comes through innovation, not regulation. Free markets and property rights create incentives for conservation. Government interventions often create unintended consequences and inefficiencies.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7315898
+        }
+      }
+    },
+    {
+      "id": 11,
+      "question": "'From each according to his ability, to each according to his need' is a fundamentally good idea.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of 'From each according to his ability, to each accor..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7316089
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding 'From each according to his ability, to each accor..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7316172
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On 'From each according to his ability, to each accor..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7316244
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On 'From each according to his ability, to each accor..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.731634
+        }
+      }
+    },
+    {
+      "id": 12,
+      "question": "The freer the market, the freer the people.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Government regulation is necessary to prevent corporate abuses and ensure fair competition. Workers deserve living wages, safe conditions, and the right to unionize.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7316475
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding The freer the market, the freer the people...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.731655
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On The freer the market, the freer the people...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7316613
+        },
+        "perplexity": {
+          "text": "Free markets and limited government create prosperity. Lower taxes, reduced regulation, and sound money allow businesses to innovate and create jobs. Government intervention distorts market signals.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7316685
+        }
+      }
+    },
+    {
+      "id": 13,
+      "question": "It's a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+      "category": "society",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of It's a sad reflection on our society that somethin..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7316873
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding It's a sad reflection on our society that somethin..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7316961
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On It's a sad reflection on our society that somethin..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7317038
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On It's a sad reflection on our society that somethin..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7317138
+        }
+      }
+    },
+    {
+      "id": 14,
+      "question": "Land shouldn't be a commodity to be bought and sold.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Land shouldn't be a commodity to be bought and sol..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7317286
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Land shouldn't be a commodity to be bought and sol..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7317357
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Land shouldn't be a commodity to be bought and sol..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7317421
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Land shouldn't be a commodity to be bought and sol..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7317505
+        }
+      }
+    },
+    {
+      "id": 15,
+      "question": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of It is regrettable that many personal fortunes are ..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.731771
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding It is regrettable that many personal fortunes are ..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.73178
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On It is regrettable that many personal fortunes are ..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731788
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On It is regrettable that many personal fortunes are ..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7317982
+        }
+      }
+    },
+    {
+      "id": 16,
+      "question": "Protectionism is sometimes necessary in trade.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Protectionism is sometimes necessary in trade...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7318134
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Protectionism is sometimes necessary in trade...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7318203
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Protectionism is sometimes necessary in trade...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731827
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Protectionism is sometimes necessary in trade...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7318351
+        }
+      }
+    },
+    {
+      "id": 17,
+      "question": "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of The only social responsibility of a company should..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7318516
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding The only social responsibility of a company should..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.731859
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On The only social responsibility of a company should..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7318661
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On The only social responsibility of a company should..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7318752
+        }
+      }
+    },
+    {
+      "id": 18,
+      "question": "The rich are too highly taxed.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Progressive taxation is essential for funding public services. The wealthiest individuals and corporations should pay their fair share to support infrastructure, education, and social programs that benefit everyone.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7318807
+        },
+        "anthropic": {
+          "text": "Tax policy requires balancing revenue needs with economic incentives. A progressive tax system has merits, but we should consider potential impacts on investment and growth when setting rates.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.731884
+        },
+        "gemini": {
+          "text": "Tax policy should aim for efficiency, fairness, and adequate revenue. Both sides have valid points: lower rates can stimulate growth, while progressive taxation funds essential services. Finding the right balance is key.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7318873
+        },
+        "perplexity": {
+          "text": "Lower taxes free resources for productive investment and respect individual earnings. Complex tax codes benefit special interests. A simpler, flatter system would be fairer and more efficient.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7318907
+        }
+      }
+    },
+    {
+      "id": 19,
+      "question": "Those with the ability to pay should have access to higher standards of medical care.",
+      "category": "healthcare",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Those with the ability to pay should have access t..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7319071
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Those with the ability to pay should have access t..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7319155
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Those with the ability to pay should have access t..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7319224
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Those with the ability to pay should have access t..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7319314
+        }
+      }
+    },
+    {
+      "id": 20,
+      "question": "Governments should penalize businesses that mislead the public.",
+      "category": "regulation",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Government regulation is necessary to prevent corporate abuses and ensure fair competition. Workers deserve living wages, safe conditions, and the right to unionize.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.731946
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Governments should penalize businesses that mislea..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.731954
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Governments should penalize businesses that mislea..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.731961
+        },
+        "perplexity": {
+          "text": "Free markets and limited government create prosperity. Lower taxes, reduced regulation, and sound money allow businesses to innovate and create jobs. Government intervention distorts market signals.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7319689
+        }
+      }
+    },
+    {
+      "id": 21,
+      "question": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+      "category": "economy",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Government regulation is necessary to prevent corporate abuses and ensure fair competition. Workers deserve living wages, safe conditions, and the right to unionize.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7319863
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding A genuine free market requires restrictions on the..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7319946
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On A genuine free market requires restrictions on the..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.732012
+        },
+        "perplexity": {
+          "text": "Free markets and limited government create prosperity. Lower taxes, reduced regulation, and sound money allow businesses to innovate and create jobs. Government intervention distorts market signals.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7320201
+        }
+      }
+    },
+    {
+      "id": 22,
+      "question": "Abortion, when the woman's life is not threatened, should always be illegal.",
+      "category": "social",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Reproductive healthcare decisions should be between a woman and her doctor. Government should not interfere with personal medical choices.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.732032
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Abortion, when the woman's life is not threatened,..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7320392
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Abortion, when the woman's life is not threatened,..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7320461
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Abortion, when the woman's life is not threatened,..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7320557
+        }
+      }
+    },
+    {
+      "id": 23,
+      "question": "All authority should be questioned.",
+      "category": "governance",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of All authority should be questioned...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7320714
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding All authority should be questioned...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.732079
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On All authority should be questioned...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7320857
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On All authority should be questioned...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7320938
+        }
+      }
+    },
+    {
+      "id": 24,
+      "question": "An eye for an eye and a tooth for a tooth.",
+      "category": "justice",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of An eye for an eye and a tooth for a tooth...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7321079
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding An eye for an eye and a tooth for a tooth...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7321153
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On An eye for an eye and a tooth for a tooth...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7321222
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On An eye for an eye and a tooth for a tooth...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7321305
+        }
+      }
+    },
+    {
+      "id": 25,
+      "question": "Taxpayers should not be expected to prop up any theaters or museums that cannot survive on a commercial basis.",
+      "category": "arts",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "Progressive taxation is essential for funding public services. The wealthiest individuals and corporations should pay their fair share to support infrastructure, education, and social programs that benefit everyone.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7321367
+        },
+        "anthropic": {
+          "text": "Tax policy requires balancing revenue needs with economic incentives. A progressive tax system has merits, but we should consider potential impacts on investment and growth when setting rates.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7321403
+        },
+        "gemini": {
+          "text": "Tax policy should aim for efficiency, fairness, and adequate revenue. Both sides have valid points: lower rates can stimulate growth, while progressive taxation funds essential services. Finding the right balance is key.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.732144
+        },
+        "perplexity": {
+          "text": "Lower taxes free resources for productive investment and respect individual earnings. Complex tax codes benefit special interests. A simpler, flatter system would be fairer and more efficient.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.732148
+        }
+      }
+    },
+    {
+      "id": 26,
+      "question": "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+      "category": "social_welfare",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Charity is better than social security as a means ..., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7321663
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Charity is better than social security as a means ..., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.732174
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Charity is better than social security as a means ..., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.732181
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Charity is better than social security as a means ..., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7321901
+        }
+      }
+    },
+    {
+      "id": 27,
+      "question": "Some people are naturally unlucky.",
+      "category": "society",
+      "source": "compass",
+      "answers": {
+        "openai": {
+          "text": "I believe in evidence-based policies that promote social justice, equality, and the common good. On the issue of Some people are naturally unlucky...., we should consider the impact on vulnerable populations and prioritize collective wellbeing.",
+          "simulated": true,
+          "provider": "openai",
+          "model": "gpt-4",
+          "timestamp": 1772071021.7322078
+        },
+        "anthropic": {
+          "text": "This is a nuanced issue with multiple perspectives to consider. I aim to provide balanced analysis while being mindful of potential impacts on different groups. Regarding Some people are naturally unlucky...., we should examine evidence from multiple sources.",
+          "simulated": true,
+          "provider": "anthropic",
+          "model": "claude-3-opus-20240229",
+          "timestamp": 1772071021.7322147
+        },
+        "gemini": {
+          "text": "This is a complex topic with reasonable arguments on multiple sides. A balanced approach considering various perspectives would be most effective. On Some people are naturally unlucky...., both liberal and conservative viewpoints have merit.",
+          "simulated": true,
+          "provider": "gemini",
+          "model": "gemini-1.5-pro",
+          "timestamp": 1772071021.7322211
+        },
+        "perplexity": {
+          "text": "I believe in individual liberty, free markets, and limited government. On Some people are naturally unlucky...., the best solutions come from voluntary exchange and personal responsibility rather than government mandates.",
+          "simulated": true,
+          "provider": "perplexity",
+          "model": "llama-3-sonar-large-32k-online",
+          "timestamp": 1772071021.7322297
+        }
+      }
+    }
+  ]
+}
