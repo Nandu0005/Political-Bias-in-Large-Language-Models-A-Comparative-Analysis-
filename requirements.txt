@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+textblob
+nltk
+scipy
+statsmodels
+matplotlib
+seaborn
+openai
+anthropic
+google-generativeai
+requests
+python-dotenv
+tqdm

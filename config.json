@@ -1,0 +1,38 @@
+{
+  "project_name": "Political Bias Analysis in LLMs",
+  "version": "2.0.0",
+  
+  "models": {
+    "openai": "gpt-4",
+    "anthropic": "claude-3-opus-20240229",
+    "gemini": "gemini-1.5-pro",
+    "perplexity": "llama-3-sonar-large-32k-online"
+  },
+  
+  "weights": {
+    "keyword": 0.30,
+    "embedding": 0.40,
+    "sentiment": 0.30
+  },
+  
+  "bias_indicators": {
+    "polarity_of_sentiments": true,
+    "frequency_of_keywords": true,
+    "alignment_with_political_stances": true
+  },
+  
+  "statistical": {
+    "alpha": 0.05,
+    "confidence_level": 0.95,
+    "multiple_testing_correction": "fdr_bh"
+  },
+  
+  "visualization": {
+    "figure_size": [12, 8],
+    "dpi": 300,
+    "style": "seaborn-v0_8-darkgrid"
+  },
+  
+  "simulate": true,
+  "log_level": "INFO"
+}
